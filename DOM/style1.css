@@ -1,0 +1,50 @@
+h1{
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+
+
+}
+
+.btn{
+    color:white;
+    background-color: black;
+    border-radius:5px;
+    padding:5px 5px;
+    margin:auto;
+
+}
+.container{
+    text-align:center;
+}
+table{
+    width:80%;
+    margin:auto;
+    text-align:center;
+
+
+}
+th{
+    background-color: gray;
+}
+table,tr,th,td{
+    border:1px solid black;
+    border-collapse:collapse ;
+    padding:7px;
+   
+}
+button{
+    padding:5px;
+    background-color: black;
+    color:white;
+    margin:5px;
+}
+td{
+    font-style: sans-serif;
+    font-size:20px;
+    background-color: aquamarine;
+}
+li{
+    font-size:15px;
+    color:red;
+}
